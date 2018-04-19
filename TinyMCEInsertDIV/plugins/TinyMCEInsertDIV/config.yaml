@@ -1,0 +1,14 @@
+id: TinyMCEInsertDIV
+name: TinyMCEInsertDIV
+version: 1.00
+author_link: https://github.com/tkds/mt-plugin-TinyMCEInsertDIV
+author_name: tkds
+description: <MT_TRANS phrase='This plugin inserts a tag into TinyMCE.'>
+
+l10n_lexicon:
+  ja:
+    This plugin inserts a tag into TinyMCE.: "このプラグインはTinyMCEにタグを挿入します。"
+
+editors:
+    tinymce:
+        extension: extension.tmpl
